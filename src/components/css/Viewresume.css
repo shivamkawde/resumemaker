@@ -1,0 +1,48 @@
+.name{
+    text-align: center;
+    color:#0d6efd
+}
+.contact{
+    position: absolute;
+    top: 0;
+}
+.table{
+    position: absolute;
+    top:1rem
+}
+.skills{
+    background: gray;
+    padding: 6px;
+}
+.hobbies{
+    position: absolute;
+    width: 3rem;
+    
+    height: 6rem;
+    top: 3rem;
+    right: 30%;
+
+}
+.achivements{
+    position: absolute;
+    width: 3rem; 
+    height: 6rem;
+    top: 20rem;
+    right: 30%;
+
+}
+.hobbies ,b{
+    width: 20rem;
+}
+.achivements, b{
+    width: 20rem;
+}
+.tamplateA{
+    color: #0d6efd;
+}
+.tamplateb{
+    color: green;
+}
+.resume{
+    border: solid 1px;
+}
