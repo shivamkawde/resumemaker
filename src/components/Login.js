@@ -69,6 +69,8 @@ let Login=()=>{
             </button>
           </form>
         </div>
+        <h3>For Testing Username- test123@test.com</h3>
+      <h3>Password-123456</h3>
       </div>
         
         

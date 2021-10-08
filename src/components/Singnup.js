@@ -75,6 +75,8 @@ let user = useSelector(state=>state.userReducer)
             </button>
           </form>
         </div>
+        <h3>Password length must be 6 letter</h3>
+      <h3> Username format xyz@xyz.com</h3>
       </div>
     </>
     )
